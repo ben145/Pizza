@@ -1,0 +1,13 @@
+0 mozzarella    7 onions
+
+1 cheddar       8 olives
+
+2 pepperoni     9 tomatoes
+
+3 sausage       10 green peppers
+
+4 bacon         11 banana peppers
+
+5 ham           12 spinach
+
+6 chicken       13 sauce
